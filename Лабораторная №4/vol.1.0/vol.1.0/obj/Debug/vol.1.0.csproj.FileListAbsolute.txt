@@ -1,0 +1,9 @@
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\bin\Debug\vol.1.0.exe
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\bin\Debug\vol.1.0.pdb
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\obj\Debug\vol.1.0.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\obj\Debug\vol._1._0.Form1.resources
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\obj\Debug\vol._1._0.Properties.Resources.resources
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\obj\Debug\vol.1.0.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\obj\Debug\vol.1.0.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\obj\Debug\vol.1.0.exe
+C:\Users\andre\Documents\Универ\2 курс 2 семак\КИС\Лабораторная №4\vol.1.0\vol.1.0\obj\Debug\vol.1.0.pdb
